@@ -1,0 +1,8 @@
+name: VMixin
+version: 0.0.1
+author: VadamDev
+description: A highly experimental bytecode editor for Bukkit
+website: https://github.com/VadamDev/VMixin
+
+main: net.vadamdev.vmixin.internal.VMixinPlugin
+load: STARTUP

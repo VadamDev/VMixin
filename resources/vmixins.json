@@ -1,0 +1,6 @@
+{
+  "package": "net.vadamdev.vmixin",
+  "mixins": [
+    "test.TestMixin"
+  ]
+}
